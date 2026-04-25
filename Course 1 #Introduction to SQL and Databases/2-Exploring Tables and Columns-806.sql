@@ -31,7 +31,6 @@ from orders limit 10;
 ## 6. Functions on Fields: UPPER() and LOWER() ##
 
 select LOWER(customer_name) as customer_name_lower
-
 from orders
 
 ## 7. Concatenating Fields ##
